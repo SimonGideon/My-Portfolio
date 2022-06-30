@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# My-Portfolio
+# My-Portfolio 🎓
 This is my Software Development Portfolio
 
 > Creating my portfolio for all the projects worked and skills gathered.
